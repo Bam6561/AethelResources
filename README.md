@@ -8,21 +8,24 @@
 
 ## About The Project
 
-Resource library for Aethel SMP.
+Resource library maintained for Aethel SMP.
+
+External Resources: 
+- [Aethel Datapack](https://github.com/Bam6561/AethelDatapack)
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgements
-
-- [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
 
 ## Contact
 
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
 Project Link: https://github.com/Bam6561/AethelResources
+
+## Acknowledgements
+
+- [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
 
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelResources
 
