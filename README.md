@@ -37,7 +37,7 @@ Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 - [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
 **Related Resources** 
-- [Aethel DataPack](https://github.com/Bam6561/AethelDataPack)
+- [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 
 ## License
 
