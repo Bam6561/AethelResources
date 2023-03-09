@@ -12,18 +12,11 @@
 
 Resource library maintained for Aethel SMP.
 
-**Discord**
-- [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelRules.pdf)
-- [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelServerEvents.pdf)
-
-**Minecraft**
-- [Servers](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftServers.pdf)
-- [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf)
-- [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelLore.pdf)
-- [Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf)
-
-**Staff**
-- [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
+| Type | Documents |
+|:-----|:----------|
+| Discord | [Rules], [Server Events]|
+| Minecraft | [Servers], [M-Reference], <br>[Lore], [Technical] |
+| Staff | [S-Reference] |
 
 ## About Us
 
@@ -63,3 +56,17 @@ Project Link: https://github.com/Bam6561/AethelResources
 [license-shield]: https://img.shields.io/github/license/Bam6561/AethelResources
 
 [license-url]: https://github.com/Bam6561/AethelResources/blob/main/LICENSE
+
+[Rules]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelRules.pdf
+
+[Server Events]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelServerEvents.pdf
+
+[Servers]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftServers.pdf
+
+[M-Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf
+
+[Lore]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelLore.pdf
+
+[Technical]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf
+
+[S-Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf
