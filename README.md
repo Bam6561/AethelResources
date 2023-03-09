@@ -14,18 +14,18 @@ Resource library maintained for Aethel SMP.
 
 ## About Us
 
-Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
-Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
-
 <a href="https://discord.gg/FzeC4aC6Tg">
   <img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
 </a>
 
-Related Forms:
+Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
+Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
+
+**Related Forms**
 - [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
 - [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
-Related Resources: 
+**Related Resources** 
 - [Aethel Datapack](https://github.com/Bam6561/AethelDatapack)
 
 ## License
