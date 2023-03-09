@@ -19,6 +19,7 @@ Resource library maintained for Aethel SMP.
 </a>
 
 Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
+
 Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 
 **Related Forms**
