@@ -12,6 +12,16 @@
 
 Resource library maintained for Aethel SMP.
 
+**Documents**
+- [Rules](https://github.com/Bam6561/AethelResources/blob/main/aethelRules.pdf)
+- [Minecraft Servers](https://github.com/Bam6561/AethelResources/blob/main/aethelMinecraftServers.pdf)
+- [Minecraft Reference](https://github.com/Bam6561/AethelResources/blob/main/aethelMinecraftReference.pdf)
+- [Lore](https://github.com/Bam6561/AethelResources/blob/main/aethelLore.pdf)
+- [Server Events](https://github.com/Bam6561/AethelResources/blob/main/aethelServerEvents.pdf)
+
+**Discontinued**
+- [Minecraft Technical](https://github.com/Bam6561/AethelResources/blob/main/aethelMinecraftTechnical.pdf)
+
 ## About Us
 
 <a href="https://discord.gg/FzeC4aC6Tg">
