@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Aethel Resources</h3>
-  <a href="https://ibb.co/JK4njsL"><img src="https://i.ibb.co/7X5vt1c/aethel-Logo128x128.png" alt="aethel-Logo128x128"></a>
-
+  <a href="https://ibb.co/TmnPsgh"><img src="https://i.ibb.co/Pwb1d6C/aethel-Resources128x128.png" alt="aethel-Resources128x128"></a>
+  
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
 
 </div>
@@ -9,6 +9,10 @@
 ## About The Project
 
 Resource library maintained for Aethel SMP.
+
+## About Us
+
+<img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
 
 Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
 Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
