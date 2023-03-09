@@ -14,8 +14,8 @@ Resource library maintained for Aethel SMP.
 
 | Type | Documents |
 |:-----|:----------|
-| Discord | [Rules], [Server Events]|
-| Minecraft | [Servers], [M-Reference], <br>[Lore], [Technical] |
+| Discord | [Rules] - [Server Events]|
+| Minecraft | [Servers] - [M-Reference] - [Lore] - [Technical] |
 | Staff | [S-Reference] |
 
 ## About Us
