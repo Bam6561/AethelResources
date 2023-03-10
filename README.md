@@ -16,7 +16,7 @@ Resource library maintained for Aethel SMP.
 |:-----|:----------|
 | Discord | [Rules] - [Server Events]|
 | Minecraft | [Servers] - [M-Reference] - [Lore] - [Technical] |
-| Staff | [S-Reference] |
+| Staff | [S-Reference] - [M-Servers Properties] |
 
 ## About Us
 
@@ -70,3 +70,5 @@ Project Link: https://github.com/Bam6561/AethelResources
 [Technical]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf
 
 [S-Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf
+
+[M-Servers Properties]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftServersProperties.pdf
