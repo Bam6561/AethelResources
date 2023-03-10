@@ -15,8 +15,8 @@ Resource library maintained for Aethel SMP.
 | Type | Documents |
 |:-----|:----------|
 | Discord | [Rules] - [Server Events]|
-| Minecraft | [Servers] - [M-Reference] - [Lore] - [Technical] |
-| Staff | [S-Reference] - [M-Servers Properties] |
+| Minecraft | [Servers] - [M. Reference] - [Lore] - [Technical] |
+| Staff | [S. Reference] - [M. Servers Properties] |
 
 ## About Us
 
@@ -63,12 +63,12 @@ Project Link: https://github.com/Bam6561/AethelResources
 
 [Servers]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftServers.pdf
 
-[M-Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf
+[M. Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf
 
 [Lore]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelLore.pdf
 
 [Technical]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf
 
-[S-Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf
+[S. Reference]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf
 
-[M-Servers Properties]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftServersProperties.pdf
+[M. Servers Properties]: https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftServersProperties.pdf
