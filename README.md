@@ -38,7 +38,7 @@ Expand the dropdown boxes below to explore the library.
 <details>
   <summary> Discontinued </summary>
 
-  [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftCommandBlockTechnical.pdf)
+  [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethelMinecraftCommandBlockTechnical.pdf)
 
 </details>
 
