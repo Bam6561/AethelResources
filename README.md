@@ -12,29 +12,26 @@
 
 Resource library maintained for Aethel SMP.
 
+Expand the dropdown boxes below to explore the library.
+
 <details>
   <summary> Discord </summary>
   
-  - [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelRules.pdf)
-  - [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelServerEvents.pdf)
+  [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelServerEvents.pdf)
   
 </details>
 
 <details>
   <summary> Minecraft </summary>
   
-  - [Servers](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftServers.pdf)
-  - [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf)
-  - [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelLore.pdf)
-  - [Servers Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftServersProperties.pdf)
-  - [Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf)
-  
+  [Servers](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftServers.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelLore.pdf) | [Servers Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftServersProperties.pdf) | [Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf)
+
 </details>
 
 <details>
   <summary> Staff </summary>
   
-  - [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
+  [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
   
 </details>
 
