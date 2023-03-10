@@ -17,14 +17,14 @@ Expand the dropdown boxes below to explore the library.
 <details>
   <summary> Discord </summary>
   
-  [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelServerEvents.pdf)
+  [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
   
 </details>
 
 <details>
   <summary> Minecraft </summary>
   
-  [Servers](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftServers.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelLore.pdf) | [Servers Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftServersProperties.pdf) | [Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftTechnical.pdf)
+  [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftSMPProperties.pdf) 
 
 </details>
 
@@ -33,6 +33,13 @@ Expand the dropdown boxes below to explore the library.
   
   [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
   
+</details>
+
+<details>
+  <summary> Discontinued </summary>
+
+  [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftCommandBlockTechnical.pdf)
+
 </details>
 
 ## About Us
