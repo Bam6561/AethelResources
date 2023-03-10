@@ -24,7 +24,7 @@ Expand the dropdown boxes below to explore the library.
 <details>
   <summary> Minecraft </summary>
   
-  [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelMinecraftSMPProperties.pdf) 
+  [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMPProperties.pdf) 
 
 </details>
 
