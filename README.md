@@ -48,6 +48,8 @@ Expand the dropdown boxes below to explore the library.
   <img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
 </a>
 
+**Realm of Aethel**
+
 Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
 
 Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
