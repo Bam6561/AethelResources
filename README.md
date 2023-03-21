@@ -65,11 +65,11 @@ Realm of Aethel is a Discord community that mainly focuses on playing Minecraft 
 Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 
 **Related Forms**
-- [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
-- [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
+* [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
+* [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
 **Related Resources** 
-- [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
+* [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -89,7 +89,7 @@ Project Link: https://github.com/Bam6561/AethelResources
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-- [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
+* [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
