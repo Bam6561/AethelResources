@@ -26,16 +26,16 @@
 ## About The Project
 Resource library maintained for Aethel SMP. 
 
-Discord
+**Discord**
 > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
 
-Minecraft 
+**Minecraft**
 > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMPProperties.pdf) 
 
-Staff 
+**Staff**
 > [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
 
-Discontinued 
+**Discontinued**
 > [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethelMinecraftCommandBlockTechnical.pdf)
 
 <p align="right"><a href="#top">Go to Top</a></p>
