@@ -8,7 +8,6 @@
   </a>
   
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
