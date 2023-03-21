@@ -12,7 +12,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details> 
+<details open> 
   <summary><b> Table of Contents </b></summary>
   <ol>
     <li><a href="#about-the-project"> About The Project </a></li>
@@ -26,17 +26,29 @@
 ## About The Project
 Resource library maintained for Aethel SMP. 
 
-**Discord**
-> [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
+<details open>
+  <summary><b> Discord </b></summary>
+  
+  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
+</details>
 
-**Minecraft**
-> [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMPProperties.pdf) 
+<details open>
+  <summary><b> Minecraft </b></summary>
+  
+  > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMPProperties.pdf) 
+</details>
 
-**Staff**
-> [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
+<details open>
+  <summary><b> Staff </b></summary>
+  
+  > [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
+</details>
 
-**Discontinued**
-> [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethelMinecraftCommandBlockTechnical.pdf)
+<details open>
+  <summary><b> Discontinued </b></summary>
+  
+  > [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethelMinecraftCommandBlockTechnical.pdf)
+</details>
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
