@@ -38,7 +38,7 @@ Resource library maintained for Aethel SMP.
 **Discontinued**
 > [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethelMinecraftCommandBlockTechnical.pdf)
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- ABOUT US -->
 ## About Us
@@ -59,13 +59,13 @@ Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 **Related Resources** 
 - [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- CONTACT -->
 ## Contact
@@ -73,13 +73,13 @@ Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmai
 
 Project Link: https://github.com/Bam6561/AethelResources
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 - [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelResources
