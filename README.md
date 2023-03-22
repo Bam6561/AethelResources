@@ -28,7 +28,7 @@ Resource library maintained for Aethel SMP.
 <details open>
   <summary><b> Discord </b></summary>
   
-  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordRules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
+  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_rules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
 </details>
 
 <details open>
