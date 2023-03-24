@@ -28,25 +28,25 @@ Resource library maintained for Aethel SMP.
 <details open>
   <summary><b> Discord </b></summary>
   
-  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_rules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethelDiscordServerEvents.pdf)
+  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_rules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_server_events.pdf)
 </details>
 
 <details open>
   <summary><b> Minecraft </b></summary>
   
-  > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftLore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftReference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMP.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethelMinecraftSMPProperties.pdf) 
+  > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_lore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_reference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_properties.pdf) 
 </details>
 
 <details open>
   <summary><b> Staff </b></summary>
   
-  > [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethelStaffReference.pdf)
+  > [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethel_staff_reference.pdf)
 </details>
 
 <details open>
   <summary><b> Discontinued </b></summary>
   
-  > [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethelMinecraftCommandBlockTechnical.pdf)
+  > [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethel_minecraft_command_block_technical.pdf)
 </details>
 
 <p align="right"><a href="#top">Back to Top</a></p>
