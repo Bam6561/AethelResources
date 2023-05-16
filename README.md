@@ -71,6 +71,7 @@ Resource library maintained for Aethel SMP.
 👥 [Join an evolving community built by the players, for the players today!](https://discord.gg/FzeC4aC6Tg)
 
 📱 **Socials**
+* [YouTube](https://www.youtube.com/@aethelsmp)
 * [Twitter](https://twitter.com/aethelsmp)
 * [Instagram](https://www.instagram.com/aethelsmp/)
 * [LinkTree](https://linktr.ee/aethelsmp)
