@@ -32,9 +32,9 @@ Resource library maintained for Aethel SMP.
 </details>
 
 <details open>
-  <summary><b> Minecraft </b></summary>
+  <summary><b> SMP </b></summary>
   
-  > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_lore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_reference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp.pdf) | [SMP Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_properties.pdf) 
+  > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_lore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_reference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp.pdf) | [SMP Wiki](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_wiki.pdf) 
 </details>
 
 <details open>
