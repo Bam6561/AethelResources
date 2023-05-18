@@ -79,7 +79,6 @@ Resource library maintained for Aethel SMP.
 
 📝 **Related Forms**
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
-* [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
 ⚙️ **Related Resources** 
 * [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
