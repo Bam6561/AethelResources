@@ -43,12 +43,6 @@ Resource library maintained for Aethel SMP.
   > [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Staff/aethel_staff_reference.pdf)
 </details>
 
-<details open>
-  <summary><b> Discontinued </b></summary>
-  
-  > [Command Block Technical](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discontinued/aethel_minecraft_command_block_technical.pdf)
-</details>
-
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- ABOUT US -->
