@@ -76,7 +76,7 @@ Resource library maintained for Aethel SMP.
 
 ⚙️ **Related Resources** 
 * [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
-* [Aethel Resource Pack](https://github.com/Bam6561/AethelDataPack)
+* [Aethel Resource Pack](https://github.com/Bam6561/AethelResourcePack)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
