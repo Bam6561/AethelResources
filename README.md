@@ -28,13 +28,13 @@ Resource library maintained for Aethel SMP.
 <details open>
   <summary><b> Discord </b></summary>
   
-  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_rules.pdf) | [Server Events](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_events.pdf)
+  > [Rules](https://github.com/Bam6561/AethelResources/blob/main/Documents/Discord/aethel_discord_rules.pdf)
 </details>
 
 <details open>
   <summary><b> SMP </b></summary>
   
-  > [Lore](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_lore.pdf) | [Reference](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_reference.pdf) | [SMP](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp.pdf) | [SMP Wiki](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_wiki.pdf) 
+  > 
 </details>
 
 <details open>
