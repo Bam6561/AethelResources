@@ -34,7 +34,7 @@ Resource library maintained for Aethel SMP.
 <details open>
   <summary><b> SMP </b></summary>
   
-  > 
+  > [Properties](https://github.com/Bam6561/AethelResources/blob/main/Documents/Minecraft/aethel_smp_properties.pdf)
 </details>
 
 <details open>
