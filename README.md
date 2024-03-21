@@ -78,8 +78,8 @@ Resource library maintained for Aethel SMP.
 ⚙️ **Related Resources** 
 * [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 * [Aethel Plugin](https://github.com/Bam6561/AethelPlugin)
-* [Aethel S3.5 Data Pack](https://github.com/Bam6561/Aethel_S3.5_DataPack)
-* [Aethel S3.5 Resource Pack](https://github.com/Bam6561/Aethel_S3.5_ResourcePack)
+* [Aethel Data Pack S3.5](https://github.com/Bam6561/AethelDataPackS3.5)
+* [Aethel Resource Pack S3.5](https://github.com/Bam6561/AethelResourcePackS3.5)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
