@@ -52,15 +52,13 @@ Resource library maintained for Aethel SMP.
   <img src="https://i.ibb.co/m43zN8N/aethel-server-banner-background-228x128.jpg" alt="aethel-server-banner-background-228x128">
 </a>
 
-**Survival ❤️ RPG 🗺️ Minigames 🧨 Crossplay 💻 📱**
+**Survival ❤️ Minigames 🧨 Crossplay 💻 📱**
 
 ⛏️ Aethel is a Minecraft community with a rich history that dates back to 2020.
 
 **Currently in its third season, the SMP offers new players:**
 * ❤️ An immersive semi-vanilla survival experience
-* 🗺️ RPG aspects ranging from dungeons, equipment, and lore driven events
-* 🧨 Minigames with adjustable settings anyone can play with a group of friends
-* 🍰 Playful cosmetics such as plushes, furniture, pets, and more
+* 🧨 Co-op minigames and lore-based events
 * 🔧 Continuous development based on community feedback
 
 👥 Join an evolving community built by the players, for the players today!<br>
