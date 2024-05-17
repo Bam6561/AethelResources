@@ -52,7 +52,7 @@ Resource library maintained for Aethel SMP.
   <img src="https://i.ibb.co/m43zN8N/aethel-server-banner-background-228x128.jpg" alt="aethel-server-banner-background-228x128">
 </a>
 
-**Survival ❤️ Minigames 🧨 Crossplay 💻 📱**
+**Survival - Events - Crossplay**
 
 ⛏️ Aethel is a Minecraft community with a rich history that dates back to 2020.
 
