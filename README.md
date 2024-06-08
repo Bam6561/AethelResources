@@ -74,7 +74,7 @@ Resource library maintained for Aethel SMP.
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
 
 ⚙️ **Related Resources** 
-* [AethelCore](https://github.com/Bam6561/AethelCore)
+* [Aethel Core](https://github.com/Bam6561/AethelCore)
 * [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 
 🔕 **Discontinued**
