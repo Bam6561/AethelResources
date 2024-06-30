@@ -56,30 +56,23 @@ Resource library maintained for Aethel SMP.
 
 ⛏️ Aethel is a Minecraft community with a rich history that dates back to 2020.
 
-**Currently in its third season, the SMP offers new players:**
+**In its fourth season, the SMP offers:**
 * ❤️ An immersive semi-vanilla survival experience
-* 🧨 Co-op minigames and lore-based events
+* 🃏 Co-op minigames and lore-based events
 * 🔧 Continuous development based on community feedback
+
+**So what are you waiting for?**
 
 👥 Join an evolving community built by the players, for the players today!<br>
 [Join our Discord!](https://discord.gg/FzeC4aC6Tg)
 
-📱 **Socials**
-* [YouTube](https://www.youtube.com/@aethelsmp)
-* [Twitter](https://twitter.com/aethelsmp)
-* [Instagram](https://www.instagram.com/aethelsmp/)
-* [LinkTree](https://linktr.ee/aethelsmp)
-
-📝 **Related Forms**
-* [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
-
 ⚙️ **Related Resources** 
-* [Aethel Core](https://github.com/Bam6561/AethelCore)
-* [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 
 🔕 **Discontinued**
 * [Aethel Plugin](https://github.com/Bam6561/AethelPlugin)
+* [Aethel Core](https://github.com/Bam6561/AethelCore)
 * [Aethel Data Pack S3.5](https://github.com/Bam6561/AethelDataPackS3.5)
+* [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 * [Aethel Resource Pack S3.5](https://github.com/Bam6561/AethelResourcePackS3.5)
 
 <p align="right"><a href="#top">Back to Top</a></p>
